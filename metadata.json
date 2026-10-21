@@ -1,0 +1,6 @@
+{
+  "name": "Kuis Matematika HOTS Geometri Bangun Datar",
+  "description": "Aplikasi web interaktif latihan soal matematika materi Geometri Bangun Datar HOTS (C4–C6) dengan diagram SVG, penilaian otomatis, afirmasi growth mindset, dan Portal Guru terproteksi PIN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
